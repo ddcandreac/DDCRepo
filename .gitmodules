@@ -1,3 +1,1 @@
 [submodule "externals/RemoteDirectoryReference"]
-	path = externals/RemoteDirectoryReference
-	url = git://github.com/FrancoisKleiner/RemoteDirectory.git
